@@ -1,0 +1,7 @@
+Olá professor, segue o projeto. Infelizmente não consegui realizar a integração do banco de dados com o projeto. Entretanto foi criado o banco de dados da maneira que foi solicitado pelo projeto. Irei enviar os arquivos do banco de dados nessa pasta do projeto caso o senhor queira verificar.
+
+Os arquivos ".IBD" são o meu banco de dados. sendo eles:
+1 - pessoas
+2 - usuarios
+3 - conta_corrente
+4 - movimento
